@@ -71,3 +71,8 @@ width: 372px;
 height: 300px;
 border-radius: 25px;
 }
+#mascote{
+    right: 0px;
+    bottom: 10px;
+    position: fixed;
+}
